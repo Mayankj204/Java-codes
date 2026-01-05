@@ -4,9 +4,9 @@ public class Ticket {
     protected int id;
     protected String status;
 
-    public Ticket(int id, String status) {
+    public Ticket(int id) {
         this.id = id;
-        this.status = status;
+        this.status = "AVAILABLE";
     }
     public int getId() {
         return id;
