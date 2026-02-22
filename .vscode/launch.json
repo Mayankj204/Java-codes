@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Abstraction.main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Encapsulation.Student",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Encapsulation.main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
             "name": "merge",
             "request": "launch",
             "mainClass": "Sorting.merge",
