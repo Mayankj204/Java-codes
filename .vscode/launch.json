@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "Abstraction.main",
