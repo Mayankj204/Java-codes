@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Priority",
+            "request": "launch",
+            "mainClass": "MultiThreading.MethodsKeywords.Priority",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "time",
+            "request": "launch",
+            "mainClass": "MultiThreading.MethodsKeywords.time",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "Thread2",
+            "request": "launch",
+            "mainClass": "MultiThreading.CreateThread.Thread2",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "Thread1",
+            "request": "launch",
+            "mainClass": "MultiThreading.CreateThread.Thread1",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MultiThreading.Lifecycle.Main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MultiThreading.Thread3.Main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "MultiThreading.Thread2.Main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "MultiThreading.Thread2.main",
+            "projectName": "java_84fb7f61"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Main",
